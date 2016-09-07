@@ -32,5 +32,5 @@ export class Triangle extends Shape {
 }
 
 // NAA. needed to add export to class definitions, below does not work?
-//export class square { Square }
-//export class triangle { Triangle }
+// export class square { Square }
+// export class triangle { Triangle }
